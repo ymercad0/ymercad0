@@ -9,7 +9,7 @@ at Mayagüez.
 
 
 <details>
-  <summary>Projects & Labs List</summary>
+  <summary>Projects & Labs List 💻</summary>
   <ul>
   <li> Includes a list of my personal projects, coursework projects, club projects, and course labs.
   </ul>
@@ -75,4 +75,20 @@ at Mayagüez.
 </tbody>
 </table>
 </details>
+
+<details>
+  <summary>Github Stats 📈</summary>
+    <p align= "left">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercrist&layout=compact&langs_count=10&theme=radical"/>
+    </p>
+</details>
+
+<details>
+  <summary>Language Stats 📈</summary>
+    <p align= "left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercrist&langs_count=10&theme=radical"/>
+    </p>
+</details>
+
 
