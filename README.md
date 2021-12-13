@@ -3,8 +3,8 @@
 ### About Me
 
 <a href="https://github.com/Mercrist">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercrist&layout=compact&langs_count=10&theme=radical"/>
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercrist&layout=compact&langs_count=10&theme=radical"/>
 </a>
 
 * I'm a software engineering student at the University of Puerto Rico
