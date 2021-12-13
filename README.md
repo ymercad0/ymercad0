@@ -1,16 +1,11 @@
 ## Welcome to my profile 🥳!
 
 ### About Me
-
-<a href="https://github.com/Mercrist">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercrist&layout=compact&langs_count=10&theme=radical"/>
-</a>
-
 * I'm a software engineering student at the University of Puerto Rico
-at Mayagüez. 
+at Mayagüez🐾. 
 * Currently seeking internships or co-ops in software development.
 * Completed Coursework: Advanced Programming, Data Structures & Algorithms
+* Fluent in: Python🐍, Java☕, & C++❗️
 
 <details>
   <summary>Projects & Labs List 💻</summary>
@@ -80,6 +75,18 @@ at Mayagüez.
 </table>
 </details>
 
+<details>
+  <summary>Github Stats 📈</summary>
+    <p align= "left">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
+    </p>
+</details>
 
+<details>
+  <summary>Language Stats 📔</summary>
+    <p align= "left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercrist&langs_count=10&theme=radical"/>
+    </p>
+</details>
 
 
