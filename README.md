@@ -1,16 +1,78 @@
-### Hi there 👋
+## Welcome to my profile 🥳!
 
-<!--
-**Mercrist/Mercrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###About Me
+* I'm a software engineering student at the University of Puerto Rico
+at Mayagüez. 
+* Currently seeking internships or co-ops in software development.
+* Completed Coursework: Advanced Programming, Data Structures & Algorithms
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+  <summary>Projects & Labs List</summary>
+  <ul>
+  <li> Includes a list of my personal projects, coursework projects, club projects, and course labs.
+  </ul>
+
+<table class="tg">
+<thead>
+    <tr>
+        <th class="tg-c3ow">Project</th>
+        <th class="tg-c3ow">Progress</th>
+        <th class="tg-c3ow">Repository Links</th>
+    </tr>
+
+<tbody>
+  <tr>
+    <td class="tg-c3ow"> Elevator System Prototype </td>
+    <td class="tg-c3ow"> In Progress </td>
+    <td class="tg-c3ow"><a href="https://github.com/aquino35/elevator_system_prototype"> Repo Link </a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"> Huffman Encoder </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Huffman-Encoder"> Repo Link </a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"> Threads Processor Simulator </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Thread-Processing-Simulator"> Repo Link </a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"> Data Structures Lab Repository </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Data-Structures-Labs"> Repo Link </a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"> "Akamatsu": Discord Bot </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/AkamatsuBot"> Repo Link </a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"> Sudoku Backtracking Visualizer </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Sudoku-GUI"> Repo Link </a></td>
+  </tr>
+
+
+  <tr>
+    <td class="tg-c3ow"> Pac-Man </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/PacMan"> Repo Link </a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"> Audio Visualizer </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/AudioVisualizer"> Repo Link </a></td>
+  </tr>
+
+</tbody>
+</table>
+</details>
+
