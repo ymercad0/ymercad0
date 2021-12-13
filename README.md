@@ -12,6 +12,11 @@ at Mayagüez.
 * Currently seeking internships or co-ops in software development.
 * Completed Coursework: Advanced Programming, Data Structures & Algorithms
 
+<details>
+  <summary>Projects & Labs List 💻</summary>
+  <ul>
+  <li> Includes a list of my personal projects, coursework projects, club projects, and course labs.
+  </ul>
 
 <table class="tg">
 <thead>
@@ -73,6 +78,8 @@ at Mayagüez.
 
 </tbody>
 </table>
+</details>
+
 
 
 
