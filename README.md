@@ -1,6 +1,6 @@
 ## Welcome to my profile 🥳!
 
-###About Me
+### About Me
 * I'm a software engineering student at the University of Puerto Rico
 at Mayagüez. 
 * Currently seeking internships or co-ops in software development.
