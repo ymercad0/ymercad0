@@ -97,7 +97,7 @@ Both my LinkedIn profile and my resume are attached down below. Thanks for readi
     <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" height="60px" width="60px">
   </a>
   <a href="https://drive.google.com/file/d/1mvq2SbHbnxP41fKTBUOudlNvmgZfjj9M/view?usp=sharing"> 
-    <img src="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png" height="60px" width="60px">
+    <img src="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png" height="50px" width="50px">
   </a>
  </p>
 
