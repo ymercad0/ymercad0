@@ -90,7 +90,7 @@ at Mayagüez🐾.
 </details>
 
 ### Networking
-Both my LinkedIn profile and my resume are attached down below. Thanks for reading through!
+* Both my LinkedIn profile and my resume are attached down below. Thanks for reading through!
 
 <p align="left">
   <a href = "https://www.linkedin.com/in/yariel-mercado/"> 
