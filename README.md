@@ -24,7 +24,7 @@ at Mayagüez🐾.
 <tbody>
   <tr>
     <td class="tg-c3ow"> Elevator System Prototype </td>
-    <td class="tg-c3ow"> In Progress </td>
+    <td class="tg-c3ow"> Completed </td>
     <td class="tg-c3ow"><a href="https://github.com/aquino35/elevator_system_prototype"> Repo Link </a></td>
   </tr>
 
@@ -94,10 +94,10 @@ at Mayagüez🐾.
 
 <p align="left">
   <a href = "https://www.linkedin.com/in/yariel-mercado/"> 
-    <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" height="60px" width="60px">
+    <img src="./icons/linkedin.png" height="60px" width="60px">
   </a>
   <a href="https://drive.google.com/file/d/1mvq2SbHbnxP41fKTBUOudlNvmgZfjj9M/view?usp=sharing"> 
-    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/google-drive-logo.png" height="60px" width="60px">
+    <img src="./icons/gdrive.png" height="60px" width="60px">
   </a>
  </p>
 
