@@ -10,7 +10,8 @@ at Mayagüez🐾.
 <details>
   <summary>Projects & Labs List 💻</summary>
   <ul>
-  <li> Includes a list of my personal projects, coursework projects, club projects, and course labs.
+  <li> Includes a list of my personal projects, coursework projects, club projects, and course labs. These are sorted
+       in descending order: from my most recent projects to the oldest.
   </ul>
 
 <table class="tg">
