@@ -3,8 +3,8 @@
 ### About Me
 * I'm a software engineering student at the University of Puerto Rico
 at Mayagüez🐾.
-* Currently seeking internships or co-ops in software development.
-* Completed Coursework: Advanced Programming, Data Structures & Algorithms
+* Incoming NVIDIA Intern.
+* Completed Coursework: Advanced Programming, Data Structures & Algorithms, Intro to SWE & Development
 * Fluent in: Python🐍, Java☕, & C++❗️
 
 <details>
