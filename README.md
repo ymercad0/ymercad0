@@ -2,7 +2,7 @@
 
 ### About Me
 * I'm a software engineering student at the University of Puerto Rico
-at Mayagüez🐾. 
+at Mayagüez🐾.
 * Currently seeking internships or co-ops in software development.
 * Completed Coursework: Advanced Programming, Data Structures & Algorithms
 * Fluent in: Python🐍, Java☕, & C++❗️
@@ -22,6 +22,18 @@ at Mayagüez🐾.
     </tr>
 
 <tbody>
+ <tr>
+    <td class="tg-c3ow"> Pathway Internships (Full Stack) </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/pathway"> Repo Link </a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"> Caffe Etoile (Full Stack) </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/caffe-etoile"> Repo Link </a></td>
+  </tr>
+
   <tr>
     <td class="tg-c3ow"> Elevator System Prototype </td>
     <td class="tg-c3ow"> Completed </td>
@@ -93,10 +105,10 @@ at Mayagüez🐾.
 * Both my LinkedIn profile and my resume are attached down below. Thanks for reading through!
 
 <p align="left">
-  <a href = "https://www.linkedin.com/in/yariel-mercado/"> 
+  <a href = "https://www.linkedin.com/in/yariel-mercado/">
     <img src="./icons/linkedin.png" height="60px" width="60px">
   </a>
-  <a href="https://drive.google.com/file/d/1mvq2SbHbnxP41fKTBUOudlNvmgZfjj9M/view?usp=sharing"> 
+  <a href="https://drive.google.com/file/d/1mvq2SbHbnxP41fKTBUOudlNvmgZfjj9M/view?usp=sharing">
     <img src="./icons/gdrive.png" height="60px" width="60px">
   </a>
  </p>
