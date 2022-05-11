@@ -4,7 +4,7 @@
 * I'm a software engineering student at the University of Puerto Rico
 at Mayagüez🐾.
 * Incoming NVIDIA Intern.
-* Completed Coursework: Advanced Programming, Data Structures & Algorithms, Intro to SWE & Development
+* Completed Coursework: Object Oriented Programming, Data Structures & Algorithms, Intro to SWE & Development
 * Fluent in: Python🐍, Java☕, & C++❗️
 
 <details>
