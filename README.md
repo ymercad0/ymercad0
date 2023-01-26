@@ -105,14 +105,14 @@ Machine Learning (current), OS (current)
 <details>
   <summary>Github Stats 📈</summary>
     <p align= "left">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
     </p>
 </details>
 
 <details>
   <summary>Language Stats 📔</summary>
     <p align= "left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercrist&langs_count=10&theme=radical&layout=compact"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mercrist&langs_count=10&theme=radical&layout=compact"/>
     </p>
 </details>
 
