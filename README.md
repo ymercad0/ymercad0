@@ -6,7 +6,7 @@ at Mayagüez🐾.
 * Completed Coursework: Object Oriented Programming, Data Structures & Algorithms, Intro to SWE & Development,
 Software Design, Programming Languages, Computer Architecture, Testing (current), Software Requirements (current),
 Machine Learning (current), OS (current)
-* Fluent in: Python🐍, Java☕, & C++❗️
+* Fluent in: Python🐍, Java☕, & C/C++❗️
 
 <details>
   <summary>Projects & Labs List 💻</summary>
