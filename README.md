@@ -3,9 +3,8 @@
 ### About Me
 * I'm a software engineering student at the University of Puerto Rico
 at Mayagüez🐾.
-* Completed Coursework: Object Oriented Programming, Data Structures & Algorithms, Intro to SWE & Development,
-Software Design, Programming Languages, Computer Architecture, Testing (current), Software Requirements (current),
-Machine Learning (current), OS (current)
+* Completed Coursework: OOP, Data Structures & Algorithms, Intro to SWE & Development, Software Design,
+Programming Languages, Computer Architecture I/II, Software Testing, Software Requirements, Machine Learning, OS
 * Fluent in: Python🐍, Java☕, & C/C++❗️
 
 <details>
@@ -25,12 +24,17 @@ Machine Learning (current), OS (current)
 
 <tbody>
  <tr>
+    <td class="tg-c3ow"> Machine Learning: Text Classification </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Tweets-Disaster-Classification"> Repo Link </a></td>
+  </tr>
+
+ <tr>
     <td class="tg-c3ow"> OS Laboratories </td>
-    <td class="tg-c3ow"> In Progress </td>
+    <td class="tg-c3ow"> Completed </td>
     <td class="tg-c3ow"><a href="https://github.com/Mercrist/OS-Labs"> Repo Link </a></td>
   </tr>
 
-<tbody>
  <tr>
     <td class="tg-c3ow"> Assembly: MSP430 Slot Machine </td>
     <td class="tg-c3ow"> Completed </td>
