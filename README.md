@@ -4,7 +4,7 @@
 * I'm a software engineering student at the University of Puerto Rico
 at Mayagüez🐾.
 * Completed Coursework: OOP, Data Structures & Algorithms, Intro to SWE & Development, Software Design,
-Programming Languages, Computer Architecture I/II, Software Testing, Software Requirements, Machine Learning, OS
+Programming Languages, Computer Architecture I/II, Software Testing, Software Requirements, Machine Learning, OS.
 * Fluent in: Python🐍, Java☕, & C/C++❗️
 
 <details>
