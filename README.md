@@ -24,6 +24,12 @@ Cryptography (current), Databases (current).
     </tr>
 
 <tbody>
+  <tr>
+    <td class="tg-c3ow"> Bot-O-Mat: Multiprocessing </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Bot-O-Mat"> Repo Link </a></td>
+  </tr>
+  
  <tr>
     <td class="tg-c3ow"> Machine Learning: Text Classification </td>
     <td class="tg-c3ow"> Completed </td>
