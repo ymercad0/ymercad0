@@ -5,7 +5,7 @@
 at Mayagüez🐾.
 * Relevant Coursework: OOP, Data Structures & Algorithms, Intro to SWE & Development, Software Design,
 Programming Languages, Computer Architecture I/II, Software Testing, Software Requirements, Machine Learning, OS,
-Cryptography (current), Databases (current).
+Cryptography, Databases.
 * Fluent in: Python🐍, Java☕, & C/C++❗️
 
 <details>
@@ -24,12 +24,18 @@ Cryptography (current), Databases (current).
     </tr>
 
 <tbody>
+<tr>
+    <td class="tg-c3ow"> Databases: Warehouse Inventory </td>
+    <td class="tg-c3ow"> Completed </td>
+    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Databases-Inventory-Project"> Repo Link </a></td>
+  </tr>
+
   <tr>
     <td class="tg-c3ow"> Bot-O-Mat: Multiprocessing </td>
     <td class="tg-c3ow"> Completed </td>
     <td class="tg-c3ow"><a href="https://github.com/Mercrist/Bot-O-Mat"> Repo Link </a></td>
   </tr>
-  
+
  <tr>
     <td class="tg-c3ow"> Machine Learning: Text Classification </td>
     <td class="tg-c3ow"> Completed </td>
