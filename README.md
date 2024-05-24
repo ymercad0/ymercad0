@@ -2,10 +2,10 @@
 
 ### About Me
 * I'm a software engineering student at the University of Puerto Rico
-at Mayagüez🐾.
+at Mayagüez🐾 and incoming SWE FTE.
 * Relevant Coursework: OOP, Data Structures & Algorithms, Intro to SWE & Development, Software Design,
 Programming Languages, Computer Architecture I/II, Software Testing, Software Requirements, Machine Learning, OS,
-Cryptography, Databases.
+Cryptography, Databases, Computer Networks, Capstone.
 * Fluent in: Python🐍, Java☕, & C/C++❗️
 
 <details>
