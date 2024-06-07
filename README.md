@@ -1,8 +1,7 @@
 ## Welcome to my profile 🥳!
 
 ### About Me
-* I'm a software engineering student at the University of Puerto Rico
-at Mayagüez🐾 and incoming SWE FTE.
+* I'm a recent SWE graduate from the University of Puerto Rico at Mayagüez🐾 and an incoming FTE.
 * Relevant Coursework: OOP, Data Structures & Algorithms, Intro to SWE & Development, Software Design,
 Programming Languages, Computer Architecture I/II, Software Testing, Software Requirements, Machine Learning, OS,
 Cryptography, Databases, Computer Networks, Capstone.
@@ -27,43 +26,43 @@ Cryptography, Databases, Computer Networks, Capstone.
 <tr>
     <td class="tg-c3ow"> Databases: Warehouse Inventory </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Databases-Inventory-Project"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/Databases-Inventory-Project"> Repo Link </a></td>
   </tr>
 
   <tr>
     <td class="tg-c3ow"> Bot-O-Mat: Multiprocessing </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Bot-O-Mat"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/Bot-O-Mat"> Repo Link </a></td>
   </tr>
 
  <tr>
     <td class="tg-c3ow"> Machine Learning: Text Classification </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Tweets-Disaster-Classification"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/Tweets-Disaster-Classification"> Repo Link </a></td>
   </tr>
 
  <tr>
     <td class="tg-c3ow"> OS Laboratories </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/OS-Labs"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/OS-Labs"> Repo Link </a></td>
   </tr>
 
  <tr>
     <td class="tg-c3ow"> Assembly: MSP430 Slot Machine </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/KasinoGroup07"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/KasinoGroup07"> Repo Link </a></td>
   </tr>
 
  <tr>
     <td class="tg-c3ow"> Pathway Internships (Full Stack) </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/pathway"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/pathway"> Repo Link </a></td>
   </tr>
 
   <tr>
     <td class="tg-c3ow"> Caffe Etoile (Full Stack) </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/caffe-etoile"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/caffe-etoile"> Repo Link </a></td>
   </tr>
 
   <tr>
@@ -75,44 +74,44 @@ Cryptography, Databases, Computer Networks, Capstone.
   <tr>
     <td class="tg-c3ow"> Huffman Encoder </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Huffman-Encoder"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/Huffman-Encoder"> Repo Link </a></td>
   </tr>
 
   <tr>
     <td class="tg-c3ow"> Threads Processor Simulator </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Thread-Processing-Simulator"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/Thread-Processing-Simulator"> Repo Link </a></td>
   </tr>
 
   <tr>
     <td class="tg-c3ow"> Data Structures Lab Repository </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Data-Structures-Labs"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/Data-Structures-Labs"> Repo Link </a></td>
   </tr>
 
   <tr>
     <td class="tg-c3ow"> "Akamatsu": Discord Bot </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/AkamatsuBot"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/AkamatsuBot"> Repo Link </a></td>
   </tr>
 
   <tr>
     <td class="tg-c3ow"> Sudoku Backtracking Visualizer </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/Sudoku-GUI"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/Sudoku-GUI"> Repo Link </a></td>
   </tr>
 
 
   <tr>
     <td class="tg-c3ow"> Pac-Man </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/PacMan"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/PacMan"> Repo Link </a></td>
   </tr>
 
   <tr>
     <td class="tg-c3ow"> Audio Visualizer </td>
     <td class="tg-c3ow"> Completed </td>
-    <td class="tg-c3ow"><a href="https://github.com/Mercrist/AudioVisualizer"> Repo Link </a></td>
+    <td class="tg-c3ow"><a href="https://github.com/ymercad0/AudioVisualizer"> Repo Link </a></td>
   </tr>
 
 </tbody>
@@ -122,14 +121,14 @@ Cryptography, Databases, Computer Networks, Capstone.
 <details>
   <summary>Github Stats 📈</summary>
     <p align= "left">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mercrist&show_icons=true&count_private=true&theme=radical"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymercad0&show_icons=true&count_private=true&theme=radical"/>
     </p>
 </details>
 
 <details>
   <summary>Language Stats 📔</summary>
     <p align= "left">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mercrist&langs_count=10&theme=radical&layout=compact"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ymercad0&langs_count=10&theme=radical&layout=compact"/>
     </p>
 </details>
 
