@@ -1,7 +1,7 @@
 ## Welcome to my profile 🥳!
 
 ### About Me
-* I'm a recent SWE graduate from the University of Puerto Rico at Mayagüez🐾 and an incoming FTE.
+* I'm a SWE graduate from the University of Puerto Rico at Mayagüez🐾 and a @Google FTE.
 * Relevant Coursework: OOP, Data Structures & Algorithms, Intro to SWE & Development, Software Design,
 Programming Languages, Computer Architecture I/II, Software Testing, Software Requirements, Machine Learning, OS,
 Cryptography, Databases, Computer Networks, Capstone.
